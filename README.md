@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Lean</h1>
 <h3 align="center">I help software development teams to shine</h3>
 
-- 🔭 I’m currently working on **my freelance business**
+<a href="https://adplist.org/mentors/leandro-nicolas-vilas"><img src="https://github.com/lean1190/lean1190/blob/ec8d45cf745e1832f3c3786c837842aa9eafb5e9/adplist-banner.png" alt="ADPList logo" /></a>
 
-- 🌱 I’m currently learning **Nextjs, and how to help software engineers advance their career**
+🔭 I’m currently working on [mentoring software engineers on ADPList](https://adplist.org/mentors/leandro-nicolas-vilas), and **[my freelance business](https://leanvilas.com)**
 
-- 📝 I regularly write articles on [https://medium.com/@lean1190](https://medium.com/@lean1190)
+🌱 I’m currently learning **Nextjs, and how to help software engineers advance their career**
 
-- 💬 Ask me about **leadership, frontend or backend development**
+💬 Ask me about **leadership, frontend or backend development**
 
-- 📄 Know about my experiences [https://leanvilas.com](https://leanvilas.com)
+📝 I regularly write articles on [https://medium.com/@lean1190](https://medium.com/@lean1190)
 
 ### My latest blog posts
 <!-- BLOG-POST-LIST:START -->

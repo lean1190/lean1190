@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lean</h1>
+<h1 align="center">Hi 👋 I'm Lean</h1>
 <h3 align="center">I help software development teams to shine</h3>
 
 <a href="https://adplist.org/mentors/leandro-nicolas-vilas"><img src="https://github.com/lean1190/lean1190/blob/ec8d45cf745e1832f3c3786c837842aa9eafb5e9/adplist-banner.png" alt="ADPList logo" /></a>

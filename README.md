@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://leanvilas.com](https://leanvilas.com)
 
-### Blogs posts
+### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -20,6 +20,6 @@
 
 <h3 align="left">Let's get in touch</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/leanvilas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leanvilas/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/leanvilas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leanvilas/" height="30" width="40" /></a>
 <a href="https://medium.com/@lean1190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lean1190" height="30" width="40" /></a>
 </p>

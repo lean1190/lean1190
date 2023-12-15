@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://leanvilas.com](https://leanvilas.com)
 
-### Blogs posts
+### My latest blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

@@ -7,8 +7,6 @@
 
 🔭 I’m currently working on [mentoring software engineers on ADPList](https://adplist.org/mentors/leandro-nicolas-vilas), and **[my freelance business](https://leanvilas.start.page/)**
 
-🌱 I’m currently learning **Nextjs, and how to help software engineers advance their career**
-
 -----
 
 <h3 align="left">💻 Technologies I enjoy working with</h3>

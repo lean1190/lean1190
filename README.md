@@ -1,11 +1,8 @@
-<h1 align="center">Hi 👋 I'm Lean</h1>
-<h3 align="center">I help you propel your career, by empowering you with skills and techniques to boost your confidence and enhance your communication skills.</h3>
+<h1>Hi 👋 I'm Lean</h1>
 
-<a href="https://adplist.org/mentors/leandro-nicolas-vilas"><img src="https://github.com/lean1190/lean1190/blob/ec8d45cf745e1832f3c3786c837842aa9eafb5e9/adplist-banner.png" alt="ADPList logo" /></a>
-
-💬 Ask me about **leadership, frontend or backend development**
-
-🔭 I’m currently working on [mentoring software engineers on ADPList](https://adplist.org/mentors/leandro-nicolas-vilas), and **[my freelance business](https://leanvilas.start.page/)**
+<h3>
+  <a href="https://leanvilas.start.page/">I help you become a confident software engineer</a>
+</h3>
 
 -----
 

@@ -1,7 +1,7 @@
 <h1>Hi 👋 I'm Lean</h1>
 
 <h3>
-  <a href="https://leanvilas.start.page/">I help you become a confident software engineer</a>
+  <a href="https://leanvilas.com/">I help you become a confident software engineer</a>
 </h3>
 
 -----

@@ -1,7 +1,7 @@
 <h1>Hi 👋 I'm Lean</h1>
 
 <h3>
-  <a href="https://leanvilas.com/">I help you become a confident software engineer</a>
+  <a href="https://leanvilas.com/">Grok into tech with <mark>CONFIDENCE</mark></a>
 </h3>
 
 -----

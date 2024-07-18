@@ -1,7 +1,7 @@
-<h1>Hi 👋 I'm Lean</h1>
+<h1>Hi, I'm Lean 👋</h1>
 
 <h3>
-  <a href="https://leanvilas.com/">Break into tech with <mark>CONFIDENCE</mark></a>
+  <a href="https://leanvilas.com/">Uncover the missing piece of Bootcamps</a>
 </h3>
 
 -----

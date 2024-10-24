@@ -1,11 +1,12 @@
 <h1>Hi, I'm Lean 👋</h1>
+<p>Senior Software Engineer and Mentor with 10+ years of experience in the industry</p>
 
 <h3>
-  I Help Developers <a href="https://www.linkedin.com/in/leanvilas/">Get UNSTUCK</a>
+  I Teach Developers <a href="https://www.linkedin.com/in/leanvilas/">How To Get Unstuck</a>, Gain Clarity, and Conquer Challenges Fast
 </h3>
 
-<p>The tech world is demanding, and getting stuck can be overwhelming</p> 
-<p>I've been there, and am here to help you move forward</p>
+<div>The tech world is ruthless</div> 
+<div>Getting stuck sucks—but staying stuck?</div> 
+<p>That’s what costs you</p> 
 
----
-<p>Hi, I’m Lean, a Senior Software Engineer with 10+ years of experience in the industry</p>
+I’ve been in your shoes, and [I’m here to get you unstuck fast](https://theneverstuckdeveloper.substack.com)
